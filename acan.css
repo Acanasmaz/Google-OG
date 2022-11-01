@@ -4,3 +4,43 @@
   margin-right: auto;
   
 }
+
+.ac{
+    background-color: rgb(201, 207, 207);
+    height: 100px;
+    text-align: center;
+    width: 100vw;
+}
+
+
+.hp7tron{
+    width: 100vw;
+    float: left;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.links{
+    margin: 2px;
+
+}
+
+.acan1{
+    background-color: aqua;
+    width: 33%;
+}
+
+.acan2{
+background-color: rgb(160, 224, 224);
+width: 33%;
+}
+
+.acan3{
+background-color: rgb(228, 238, 238);
+width: 33%;
+}
+
+p{
+    text-align: center
+}
